@@ -12,4 +12,5 @@ Features I already:
 2. User authentification backend
 3. Ready Homepage logic
 
-https://drive.google.com/file/d/18m7em6L5EtzzI1yZgGgDSJRj-IoubTfS/view?usp=share_link
+https://vimeo.com/768986321
+
