@@ -13,6 +13,6 @@ Features I already:
 3. Ready Homepage logic and Shoe page
 4. Basket Logic in Backend
 
-
+https://drive.google.com/file/d/1chMGzqi1UeoMKmOMmRm7LdOyNDdnMfcp/view?usp=sharing
 
 
